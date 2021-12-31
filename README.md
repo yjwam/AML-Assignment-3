@@ -3,5 +3,4 @@
 ### 1. Race.py
 This class is used to represent the race track as the environment
 - **Attributes**
-
-new
+  - build_track : Take string input and creates a track based on mapping \n new
