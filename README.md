@@ -2,4 +2,5 @@
 ## Content
 ### 1. Race.py
 This class is used to represent the race track as the environment
-- Attributes
+- **Attributes**
+new
