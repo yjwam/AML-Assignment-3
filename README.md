@@ -20,14 +20,13 @@ This class is used to represent the race track.
  ### 2. Car.py
  This class is used to represent the car.
  - **Attributes**
-  - actions : to build possible actions of the agent based on the problem statement.\
+    - actions : to build possible actions of the agent based on the problem statement.\
   -1 : decrease velocity by one\
   0 : keep velocity unchanged\
   1 : increase velocity by one
-  - initialize : Initialize  q(s,a) arbitrarily for each state and action except the target state which has q(s,a) = 0, where s is state and a is action.
-  - get_action : to get the possible actions for a given state.
-  - is_valid_action :  to check if action chosen is a valid action with respect to constraints.
-  - update_velocity : to update velocity of car.
-  - reset : to reset the car velocity to (0,0).
-  - get_best_action : to chose greedily the action for a given state.
-  - 
+    - initialize : Initialize  q(s,a) arbitrarily for each state and action except the target state which has q(s,a) = 0, where s is state and a is action.
+    - get_action : to get the possible actions for a given state.
+    - is_valid_action :  to check if action chosen is a valid action with respect to constraints.
+    - update_velocity : to update velocity of car.
+    - reset : to reset the car velocity to (0,0).
+    - get_best_action : to chose greedily the action for a given state. 
