@@ -4,4 +4,4 @@
 This class is used to represent the race track as the environment
 - **Attributes**
   - build_track : Take string input and creates a track based on mapping
-  - jhnj
+   jhnj
