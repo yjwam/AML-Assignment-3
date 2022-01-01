@@ -1,7 +1,7 @@
 # AML-Assignment-3 [Link](https://www.cmi.ac.in/~madhavan/courses/aml2021/assignment3/)
 ## By- Yash Jain (MDS202048), Yash Raj (MDS202049)
 ## Content
-### 1. Race.py
+### 1. Environment.py
 This class is used to represent the race track.
 - **Attributes**
   - build_track : take string input and creates a track based on mapping\
@@ -18,7 +18,7 @@ This class is used to represent the race track.
   - get_reward : to get reward for current state as per rules set in assingment.
   - start : to choose a starting point for the car.
  
- ### 2. Car.py
+ ### 2. Agent.py
 This class is used to represent the car.
  - **Attributes**
     - actions : to build possible actions of the agent based on the problem statement.\
