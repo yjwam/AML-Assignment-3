@@ -1,8 +1,7 @@
 # AML-Assignment-3
 [Link](https://www.cmi.ac.in/~madhavan/courses/aml2021/assignment3/)
-## Content
-
 ## By- Yash Jain (MDS202048), Yash Raj (MDS202049)
+## Content
 ### 1. Race.py
 This class is used to represent the race track.
 - **Attributes**
