@@ -1,4 +1,5 @@
 # AML-Assignment-3
+[Link](https://www.cmi.ac.in/~madhavan/courses/aml2021/assignment3/)
 ## Content
 ### 1. Race.py
 This class is used to represent the race track.
@@ -38,4 +39,4 @@ This is text file which represent track-2 (as given in assignment)
 ### 5. track-own.txt
 This is text file which represent our own track.
 ### 6. Reinforcement_Learning.ipynb
-Uses Q-Learning algorithm, where agent is a car and environment is a track.
+Uses [Q-Learning](https://en.wikipedia.org/wiki/Q-learning) algorithm, where agent is a car and environment is a track.
