@@ -18,7 +18,7 @@ This class is used to represent the race track.
   - start : to choose a starting point for the car.
  
  ### 2. Car.py
- This class is used to represent the car.
+This class is used to represent the car.
  - **Attributes**
     - actions : to build possible actions of the agent based on the problem statement.\
   -1 : decrease velocity by one\
@@ -29,4 +29,13 @@ This class is used to represent the race track.
     - is_valid_action :  to check if action chosen is a valid action with respect to constraints.
     - update_velocity : to update velocity of car.
     - reset : to reset the car velocity to (0,0).
-    - get_best_action : to chose greedily the action for a given state. 
+    - get_best_action : to chose greedily the action for a given state.
+    
+### 3. track-1.txt
+This is text file which represent track-1 (as given in assignment)
+### 4. track-2.txt
+This is text file which represent track-2 (as given in assignment)
+### 5. track-own.txt
+This is text file which represent our own track.
+### 6. Reinforcement_Learning.ipynb
+Uses Q-L algorithm, where agent is a car and tracks are environment.
