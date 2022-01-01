@@ -38,4 +38,4 @@ This is text file which represent track-2 (as given in assignment)
 ### 5. track-own.txt
 This is text file which represent our own track.
 ### 6. Reinforcement_Learning.ipynb
-Uses Q-L algorithm, where agent is a car and tracks are environment.
+Uses Q-L algorithm, where agent is a car and environment is a track.
